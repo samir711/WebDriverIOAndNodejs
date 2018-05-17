@@ -1,0 +1,21 @@
+
+npm install webdriverio --save-dev
+
+npm install wdio-webdriver-service --save-dev
+
+npm install selenium-webdriver --save-dev
+
+npm install chromedriver --save-dev
+npm install geckodriver --save-dev
+
+node inspect  Server1.js
+
+/*
+ working with lastest WebDriver API
+
+https: //stackoverflow.com/questions/42827413/running-node-js-selenium-test-case-on-chrome-get-error-error-econnrefused-conne
+https: //stackoverflow.com/questions/22426273/chromeoptions-causes-reference-error-using-selenium-chromedriver-for-node-js
+https: //stackoverflow.com/questions/44197253/headless-automation-with-nodejs-selenium-webdriver
+http: //seleniumhq.github.io/selenium/docs/api/javascript/index.html
+
+*/
